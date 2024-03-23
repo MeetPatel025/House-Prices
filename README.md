@@ -1,7 +1,6 @@
 # House Price Prediction Project
 
-## Author
-- MeetPatel2001
+### Author: MeetPatel2001
 
 This project aims to predict house prices using various regression techniques. We explore different machine learning models and techniques to accurately predict house prices based on several features.
 
