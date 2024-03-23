@@ -16,10 +16,10 @@ This project aims to predict house prices using various regression techniques. W
 - Implemented GradientBoostingRegressor to leverage ensemble learning for improved predictions.
 
 ### 4. Neural Networks
-- Explored the usage of Neural Networks for predicting house prices.
+- ...will make using nltk package
 
 ### 5. Support Vector Machines (SVM)
-- Investigated the application of Support Vector Machines in house price prediction.
+- ...coming soon
 
 ## Pre-processing the Data
 - Imported necessary libraries such as pandas, numpy, and scikit-learn.
